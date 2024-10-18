@@ -1,17 +1,14 @@
-# Hi there 👋, I'm [Your Name]! 🎮💻
-
-![Gaming and Coding Banner](https://user-images.githubusercontent.com/12345678/123456789.png)
+# Hi there 👋, I'm Rasim! 🎮💻
 
 ## 🚀 About Me
 I’m a **React - Python Full-Stack Developer** 👨‍💻 who loves **gaming**, **designing** creative user interfaces, and building innovative web applications!
 
-- 🎮 I blend **coding** and **gaming** to create exciting and immersive web experiences.
+- 🎮 I blend **coding** and **enjoying** to create exciting and immersive web experiences.
 - 🛠️ My tech stack includes **React**, **Python**, **Django**, and **REST APIs**.
-- 🤖 Passionate about **AI**, **machine learning**, and integrating cutting-edge technology into my work.
-- 🎨 I love playing with **designs** and creating user-friendly interfaces.
+- 🎨 I love coding with **designs** and creating user-friendly interfaces.
 
 ## 🔥 Fun Fact:
-When I'm not coding or gaming, I might be **leveling up** my skills on some online platform or challenging friends to a gaming duel!
+When I'm not coding or enjoying, I might be **leveling up** my skills!
 
 ---
 
@@ -27,18 +24,6 @@ When I'm not coding or gaming, I might be **leveling up** my skills on some onli
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 🎮 My Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| **[GameZone](https://github.com/your-username/gamezone)** | A web app for gamers to connect and share tips. | React, Django, PostgreSQL |
-| **[CryptoTrade](https://github.com/your-username/cryptotrade)** | A cryptocurrency trading dashboard. | React, Flask, CoinGecko API |
-| **[DevTracker](https://github.com/your-username/devtracker)** | A tool to track your coding progress and set goals. | React, Django, SQLite |
-
----
-
 ## ⚡ My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_title=true)
 
@@ -47,12 +32,12 @@ When I'm not coding or gaming, I might be **leveling up** my skills on some onli
 ## 🎉 Contact Me
 
 - Discord: `YourDiscordTag#1234`
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/rasimabiyev/)
+- [Portfolio](rasim-portfolio.vercel.app)
 
 ---
 
-### 🎯 Leveling Up in Web Design & Gaming
-> _"Coding is just like gaming, every project is a new quest, and each bug is a boss fight!"_
+### 🎯 Leveling Up in Web Design & Backend
+> _"Coding is just like enjoying, every project is a new quest, and each bug is a perfect fight!"_
 
-Let’s code, game, and create something awesome! 😎
+Let’s code, and create something awesome! 😎
