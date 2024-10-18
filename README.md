@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I’m a **React - Python Full-Stack Developer** 👨‍💻 who loves to **enjoy** and **design** creative user interfaces while building innovative web applications!
 
-- 🎮 I blend **coding** and **gaming** to create exciting and immersive web experiences.
+- 🎮 I blend **coding** and **enjoying** to create exciting and immersive web experiences.
 - 🛠️ My tech stack includes **React**, **Python**, **Django**, and **REST APIs**.
 - 🎨 I love crafting user-friendly interfaces with a sprinkle of creativity!
 
