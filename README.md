@@ -52,11 +52,9 @@ Let’s code and create something awesome! 😎
 
 ---
 
-## 🐍 Snake Game 🎮
-
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 ---
 
-### 🌈 Thank you for visiting my profile! 
+### 🚀 Thank you for visiting my profile! 
 > Don't forget to leave a star if you like what you see! ⭐
