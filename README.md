@@ -50,5 +50,6 @@ When I'm not coding or enjoying, I might be **leveling up** my skills!
 
 Let’s code, and create something awesome! 😎
 
-## 🎮 Snake Game
-When I’m not coding, you can find me playing or even building my own **Snake game**!
+## 🐍 Snake Game
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
