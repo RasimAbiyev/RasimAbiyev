@@ -49,3 +49,6 @@ When I'm not coding or enjoying, I might be **leveling up** my skills!
 > _"Coding is just like enjoying, every project is a new quest, and each bug is a perfect fight!"_
 
 Let’s code, and create something awesome! 😎
+
+## 🎮 Snake Game
+When I’m not coding, you can find me playing or even building my own **Snake game**!
