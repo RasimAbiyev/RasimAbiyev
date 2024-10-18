@@ -31,9 +31,8 @@ When I'm not coding or enjoying, I might be **leveling up** my skills!
 
 ## 🎉 Contact Me
 
-- Discord: `YourDiscordTag#1234`
 - [LinkedIn](https://www.linkedin.com/in/rasimabiyev/)
-- [Portfolio](rasim-portfolio.vercel.app)
+- [Portfolio](https://rasim-portfolio.vercel.app/)
 
 ---
 
