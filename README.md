@@ -7,6 +7,8 @@ I’m a **React - Python Full-Stack Developer** 👨‍💻 who loves to **enjoy
 - 🛠️ My tech stack includes **React**, **Python**, **Django**, and **REST APIs**.
 - 🎨 I love crafting user-friendly interfaces with a sprinkle of creativity!
 
+- <p align="center"><img src="https://komarev.com/ghpvc/?username=lemanmiriyeva&style=flat-square&color=blue" alt=""></p>
+
 ---
 
 ## 🛠️ My Toolbox 🧰
