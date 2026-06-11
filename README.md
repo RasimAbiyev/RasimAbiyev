@@ -80,7 +80,7 @@ Full-stack AI dashboards
 API-first AI services
 Contact
 LinkedIn: https://www.linkedin.com/in/rasimabiyev/
-Portfolio: https://rasim-portfolio.vercel.app/
+Portfolio: https://rasim.vercel.app/
 Closing
 
 Focused on building AI systems that are usable, scalable and production-ready rather than experimental-only prototypes.
